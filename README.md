@@ -3,6 +3,8 @@ BCIT Master of Science - Applied Computing : COMP 9130 - Applied Artificial Inte
 
 ## Problem Description
 
+## Dataset description
+
 ## Results Summary with Key Metrics
 
 ## Setup instructions
