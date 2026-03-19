@@ -18,7 +18,10 @@ Most text is noisy (slang, abbreviations, URLs, @mentions, hashtags).
 
 Most tweets are around 100 words.
 ## Results summary: baseline vs transformer comparison table
+![classification_report_baseline](src/classification_report_baseline.png)
+![classification_report_transformer](src/classification_report_transformer.png)
 
+There is 5% improvement from baseline to transformer model.
 ## Setup instructions
     git clone https://github.com/CA-JunPark/mini-project-9.git
     cd mini-project-9
@@ -39,4 +42,4 @@ Aristide: Initial setup for model training
 
 Jun: Tuning and evaluation of the model
 
-Tohether: Learning Hub Report
+Together: Learning Hub Report
